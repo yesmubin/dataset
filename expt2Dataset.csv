@@ -13,3 +13,4 @@ ID,Age,Income,Gender,Marital Status,Buys
 12,21-35,Medium,Male,Married,Yes
 13,21-35,High,Female,Single,Yes
 14,>35,Medium,Male,Married,No
+15,<21,Low,Female,Married,
